@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="~/Default.aspx" title="Root"  description="Root">
+        <siteMapNode url="~/Presentation/formHome.aspx" title="Home"  description="Home" />
+        <siteMapNode url="~/Presentation/formLectureNote.aspx" title="Lecture Note"  description="Lecture Note"/>
+        <siteMapNode url="~/Presentation/formAssignment.aspx" title="Assignment"  description="Assignment" />
+        <siteMapNode url="~/StudentSite/frmViewStudentGrade.aspx" title="Grade"  description="Grade" roles="Student"/>
+        <siteMapNode url="~/InstructorSite/frmViewGradeByInstructor.aspx" title="Grade"  description="GradeForInstructor"  roles="Instructor" />  
+        <siteMapNode url="~/InstructorSite/formManageLectureNote.aspx" title="Manage Lecture Note"  description="Manage Lecture Note" roles="Instructor" />
+        <siteMapNode url="~/InstructorSite/formManageAssignment.aspx" title="Manage Assignment"  description="Manage Assignment" roles="Instructor" />
+        <siteMapNode url="~/Presentation/formAbout.aspx" title="About"  description="About" />
+    </siteMapNode> 
+</siteMap>

@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0A4371AB-9E3D-4DA3-B882-B73DB65C8711}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LMS</RootNamespace>
+    <AssemblyName>LMS</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit">
+      <HintPath>C:\Users\hari\Downloads\AjaxControlToolkit.Binary.NET4\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Account\ChangePassword.aspx" />
+    <Content Include="Account\ChangePasswordSuccess.aspx" />
+    <Content Include="Account\Login.aspx" />
+    <Content Include="Account\Register.aspx" />
+    <Content Include="Admin\testadmin.aspx" />
+    <Content Include="App_Code\BusinessLogic\EnrollmentController.cs" />
+    <Content Include="App_Data\LMS.mdf" />
+    <Content Include="App_Data\LMS_log.ldf">
+      <DependentUpon>LMS.mdf</DependentUpon>
+    </Content>
+    <Content Include="App_Data\UsersDb.mdf" />
+    <Content Include="App_Data\UsersDb_log.ldf">
+      <DependentUpon>UsersDb.mdf</DependentUpon>
+    </Content>
+    <Content Include="FormMyCourse.aspx" />
+    <Content Include="Images\bgLmsLogin.png" />
+    <Content Include="Images\bgLmsLoginBottom.png" />
+    <Content Include="Images\bgLmsLoginMiddle.png" />
+    <Content Include="Images\bgLmsLoginTop.png" />
+    <Content Include="Images\button.jpg" />
+    <Content Include="Images\calendar_scheduleHS.png" />
+    <Content Include="Images\crsImage01.jpg" />
+    <Content Include="Images\crsImage02.jpg" />
+    <Content Include="Images\crsImageIcon01.png" />
+    <Content Include="Images\imgAddNote.png" />
+    <Content Include="Images\imgBulletNote.gif" />
+    <Content Include="Images\imgDeleteNote.png" />
+    <Content Include="Images\imgDownloadNote.png" />
+    <Content Include="Images\login.png" />
+    <Content Include="Images\pwdUnmasked.png" />
+    <Content Include="Images\topNav.jpg" />
+    <Content Include="Images\uploading.gif" />
+    <Content Include="InstructorSite\frmViewStudentGrade.aspx" />
+    <Content Include="Presentation\formAssignmentDetail.aspx" />
+    <Content Include="InstructorSite\formManageSubmission.aspx" />
+    <Content Include="InstructorSite\frmViewGradeByInstructor.aspx" />
+    <Content Include="Scripts\WaterMark.min.js" />
+    <Content Include="StudentSite\frmViewStudentGrade.aspx" />
+    <Content Include="InstructorSite\UploadAssignment.aspx" />
+    <Content Include="Presentation\formAbout.aspx" />
+    <Content Include="Presentation\formAssignment.aspx" />
+    <Content Include="Presentation\formHome.aspx" />
+    <Content Include="Presentation\formLectureNote.aspx" />
+    <Content Include="InstructorSite\formManageAssignment.aspx" />
+    <Content Include="InstructorSite\formManageLectureNote.aspx" />
+    <Content Include="InstructorSite\UploadLectureNote.aspx" />
+    <Content Include="Scripts\left-menu.js" />
+    <Content Include="Scripts\lmsMenu.js" />
+    <Content Include="Styles\Layout.css" />
+    <Content Include="Styles\LeftMenu.css" />
+    <Content Include="Styles\lmsMenuBase.css" />
+    <Content Include="Styles\lmsMenuSidebar.css" />
+    <Content Include="Styles\lmsMenuTopbar.css" />
+    <Content Include="Styles\Manager.css" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="Global.asax" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Styles\StyleCourseContainer.css" />
+    <Content Include="Styles\StyleLmsLogin.css" />
+    <Content Include="Styles\StylePresentation.css" />
+    <Content Include="Default.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.designer.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\testadmin.aspx.cs">
+      <DependentUpon>testadmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\testadmin.aspx.designer.cs">
+      <DependentUpon>testadmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Content Include="App_Code\BusinessLogic\DepartmentController.cs">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="App_Code\BusinessLogic\InstructorController.cs">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="App_Code\BusinessLogic\StudentController.cs">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="App_Code\DataAccess\LoginUserDA.cs" />
+    <Compile Include="App_Code\BusinessObject\List\AssignmentList.cs" />
+    <Compile Include="App_Code\BusinessObject\List\CourseList.cs" />
+    <Compile Include="App_Code\BusinessObject\List\DepartmentList.cs" />
+    <Compile Include="App_Code\BusinessObject\List\EnrollmentList.cs" />
+    <Compile Include="App_Code\BusinessObject\List\InstructorList.cs" />
+    <Compile Include="App_Code\BusinessObject\List\LectureNoteList.cs" />
+    <Compile Include="App_Code\BusinessObject\List\StudentList.cs" />
+    <Compile Include="App_Code\BusinessObject\List\SubmissionList.cs" />
+    <Compile Include="App_Code\BusinessObject\Assignment.cs" />
+    <Compile Include="App_Code\BusinessObject\Course.cs" />
+    <Compile Include="App_Code\BusinessObject\Department.cs" />
+    <Compile Include="App_Code\BusinessObject\Enrollment.cs" />
+    <Compile Include="App_Code\BusinessObject\Instructor.cs" />
+    <Compile Include="App_Code\BusinessObject\LectureNote.cs" />
+    <Compile Include="App_Code\BusinessObject\Student.cs" />
+    <Compile Include="App_Code\BusinessObject\Submission.cs" />
+    <Compile Include="App_Code\DataAccess\AppSettings.cs" />
+    <Compile Include="App_Code\DataAccess\AssignmentDA.cs" />
+    <Compile Include="App_Code\DataAccess\CourseDA.cs" />
+    <Compile Include="App_Code\DataAccess\DepartmentDA.cs" />
+    <Compile Include="App_Code\DataAccess\EnrollmentDA.cs" />
+    <Compile Include="App_Code\DataAccess\InstructorDA.cs" />
+    <Compile Include="App_Code\DataAccess\LectureNoteDA.cs" />
+    <Compile Include="App_Code\DataAccess\StudentDA.cs" />
+    <Compile Include="App_Code\DataAccess\SubmissionDA.cs" />
+    <Compile Include="App_Code\BusinessLogic\CourseController.cs" />
+    <Content Include="App_Code\MembershipController\LMSMembershipProvider.cs" />
+    <Content Include="App_Code\MembershipController\SecUtil.cs" />
+    <Content Include="App_Code\MembershipController\MyConnectionHelper.cs" />
+    <Content Include="App_Code\MembershipController\LMSRoleProvider.cs" />
+    <Compile Include="FormMyCourse.aspx.cs">
+      <DependentUpon>FormMyCourse.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FormMyCourse.aspx.designer.cs">
+      <DependentUpon>FormMyCourse.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="InstructorSite\frmViewStudentGrade.aspx.cs">
+      <DependentUpon>frmViewStudentGrade.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InstructorSite\frmViewStudentGrade.aspx.designer.cs">
+      <DependentUpon>frmViewStudentGrade.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Lms.Master.cs">
+      <DependentUpon>Lms.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Lms.Master.designer.cs">
+      <DependentUpon>Lms.Master</DependentUpon>
+    </Compile>
+    <Compile Include="App_Code\BusinessObject\LoginUser.cs" />
+    <Compile Include="App_Code\BusinessLogic\LoginUserController.cs" />
+    <Compile Include="MyCourse.master.cs">
+      <DependentUpon>MyCourse.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyCourse.master.designer.cs">
+      <DependentUpon>MyCourse.master</DependentUpon>
+    </Compile>
+    <Compile Include="App_Code\BusinessLogic\LectureNoteController.cs" />
+    <Compile Include="App_Code\BusinessLogic\AssignmentController.cs" />
+    <Compile Include="Presentation\formAssignmentDetail.aspx.cs">
+      <DependentUpon>formAssignmentDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentation\formAssignmentDetail.aspx.designer.cs">
+      <DependentUpon>formAssignmentDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InstructorSite\formManageSubmission.aspx.cs">
+      <DependentUpon>formManageSubmission.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InstructorSite\formManageSubmission.aspx.designer.cs">
+      <DependentUpon>formManageSubmission.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Code\BusinessLogic\SubmissionController.cs" />
+    <Compile Include="InstructorSite\frmViewGradeByInstructor.aspx.cs">
+      <DependentUpon>frmViewGradeByInstructor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InstructorSite\frmViewGradeByInstructor.aspx.designer.cs">
+      <DependentUpon>frmViewGradeByInstructor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="StudentSite\frmViewStudentGrade.aspx.cs">
+      <DependentUpon>frmViewStudentGrade.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StudentSite\frmViewStudentGrade.aspx.designer.cs">
+      <DependentUpon>frmViewStudentGrade.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InstructorSite\UploadAssignment.aspx.cs">
+      <DependentUpon>UploadAssignment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InstructorSite\UploadAssignment.aspx.designer.cs">
+      <DependentUpon>UploadAssignment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\formAbout.aspx.cs">
+      <DependentUpon>formAbout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentation\formAbout.aspx.designer.cs">
+      <DependentUpon>formAbout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\formAssignment.aspx.cs">
+      <DependentUpon>formAssignment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentation\formAssignment.aspx.designer.cs">
+      <DependentUpon>formAssignment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\formHome.aspx.cs">
+      <DependentUpon>formHome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentation\formHome.aspx.designer.cs">
+      <DependentUpon>formHome.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\formLectureNote.aspx.cs">
+      <DependentUpon>formLectureNote.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentation\formLectureNote.aspx.designer.cs">
+      <DependentUpon>formLectureNote.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InstructorSite\formManageAssignment.aspx.cs">
+      <DependentUpon>formManageAssignment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InstructorSite\formManageAssignment.aspx.designer.cs">
+      <DependentUpon>formManageAssignment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InstructorSite\formManageLectureNote.aspx.cs">
+      <DependentUpon>formManageLectureNote.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InstructorSite\formManageLectureNote.aspx.designer.cs">
+      <DependentUpon>formManageLectureNote.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Code\Helper.cs" />
+    <Compile Include="InstructorSite\UploadLectureNote.aspx.cs">
+      <DependentUpon>UploadLectureNote.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InstructorSite\UploadLectureNote.aspx.designer.cs">
+      <DependentUpon>UploadLectureNote.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Account\Web.config" />
+    <Content Include="Site.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Lms.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MyCourse.master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Web.sitemap" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>33612</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/LMS1</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

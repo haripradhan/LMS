@@ -1,0 +1,107 @@
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem\LMS\bin\LMS.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem\LMS\bin\LMS.pdb
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem\LMS\obj\Debug\ResolveAssemblyReference.cache
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem\LMS\obj\Debug\LMS.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem\LMS\obj\Debug\LMS.pdb
+C:\Users\anachra\Desktop\CourseraReference\LearningManagementSystem\LMS\bin\LMS.dll
+C:\Users\anachra\Desktop\CourseraReference\LearningManagementSystem\LMS\bin\LMS.pdb
+C:\Users\anachra\Desktop\CourseraReference\LearningManagementSystem\LMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\anachra\Desktop\CourseraReference\LearningManagementSystem\LMS\obj\Debug\LMS.dll
+C:\Users\anachra\Desktop\CourseraReference\LearningManagementSystem\LMS\obj\Debug\LMS.pdb
+C:\Users\anachra\Desktop\CourseraReference\LearningManagementSystem_v6\LMS\bin\LMS.dll
+C:\Users\anachra\Desktop\CourseraReference\LearningManagementSystem_v6\LMS\bin\LMS.pdb
+C:\Users\anachra\Desktop\CourseraReference\LearningManagementSystem_v6\LMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\anachra\Desktop\CourseraReference\LearningManagementSystem_v6\LMS\obj\Debug\LMS.dll
+C:\Users\anachra\Desktop\CourseraReference\LearningManagementSystem_v6\LMS\obj\Debug\LMS.pdb
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\LMS.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\LMS.pdb
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\AjaxControlToolkit.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\AjaxControlToolkit.pdb
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\ar\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\cs\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\de\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\es\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\fr\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\he\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\hi\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\it\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\ja\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\ko\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\nl\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\pt\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\ru\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\tr-TR\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\zh-CHS\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\bin\zh-CHT\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\obj\Debug\ResolveAssemblyReference.cache
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\obj\Debug\LMS.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working\LMS\obj\Debug\LMS.pdb
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\obj\Debug\ResolveAssemblyReference.cache
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\obj\Debug\LMS.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\LMS.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\LMS.pdb
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\AjaxControlToolkit.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\AjaxControlToolkit.pdb
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\ar\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\cs\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\de\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\es\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\fr\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\he\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\hi\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\it\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\ja\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\ko\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\nl\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\pt\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\ru\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\tr-TR\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\zh-CHS\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\bin\zh-CHT\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_working_final\LMS\obj\Debug\LMS.pdb
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\LMS.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\LMS.pdb
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\AjaxControlToolkit.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\AjaxControlToolkit.pdb
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\ar\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\cs\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\de\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\es\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\fr\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\he\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\hi\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\it\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\ja\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\ko\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\nl\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\pt\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\ru\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\tr-TR\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\zh-CHS\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\bin\zh-CHT\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\obj\Debug\ResolveAssemblyReference.cache
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\obj\Debug\LMS.dll
+G:\Study material\Grads\Assignments\Database\Project 2\Code\LearningManagementSystem_v2.0\LMS\obj\Debug\LMS.pdb
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\LMS.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\LMS.pdb
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\AjaxControlToolkit.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\AjaxControlToolkit.pdb
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\ar\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\cs\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\de\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\es\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\fr\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\he\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\hi\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\it\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\ja\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\ko\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\nl\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\pt\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\ru\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\tr-TR\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\zh-CHS\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\bin\zh-CHT\AjaxControlToolkit.resources.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\obj\Debug\LMS.dll
+G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\obj\Debug\LMS.pdb

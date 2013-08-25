@@ -1,0 +1,163 @@
+﻿/* Lms Login  
+----------------------------------------------------------*/
+#loginbody
+{
+    background: #dfdbc0 url('../Images/bgLmsLogin.png') no-repeat;
+    background-position: left top;
+    margin: 0px;
+    padding: 0px;    
+}
+body
+{
+    background-position: left top;
+    margin: 0px;
+    padding: 0px;
+    height: 410px;
+}
+h1, h2, h3, h4, h5, h6, h7{margin: 0px; padding: 0px;}
+p{ color: #45b3bd; font: 12px/1.4em Arial,Helvetica,sans-serif; margin: 0px; padding: 0px;}
+
+/*TopHeader
+---------------------------------------------------------*/
+
+#topNav
+{
+    background: url('../Images/topNav.jpg') repeat-x scroll 0 0 transparent;
+    height: 102px;
+    position: fixed;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    z-index: 98;
+    left: 0px;
+}
+
+/*BodyContent
+---------------------------------------------------------*/
+
+#contentTopNav
+{
+    margin: 0 auto;
+    max-width: 994px;
+    min-width: 718px;
+}
+
+#content
+{
+    width: 800px;	
+    background-position: center;
+	clear: both;
+	margin-top: 5px;
+	margin-left: 44px;
+}
+
+#contentTopNav, #content
+{
+    width: 809px;
+    height: 42px;
+}
+
+
+#contentTopNav .lmsLogo
+{
+    background: url('../Images/lmsLogo.png') no-repeat scroll 0 0 transparent;
+    display: block;
+    height: 49px;
+    margin: 19px 0 0;
+    width: 158px;
+}
+
+#content .leftContent
+{
+    margin-top: 2px;
+	float: left;
+	text-align: justify;
+	width: 300px;
+	
+}
+#content div.leftContent p
+{
+    width: 290px; margin-top: 40px; vertical-align: middle; float: left;
+}
+
+#content .rightContent
+{
+    width: 500px;    
+	float: left;
+	margin-top:0;
+	vertical-align:top;
+	margin-bottom:5px;
+}
+
+#content div.rightContent div.top
+{
+    background: url('../Images/bgLmsLoginTop.png') no-repeat scroll right top transparent;
+    vertical-align: top;   
+    width: 403px;
+    height: 39px;}
+    
+#content div.rightContent div.middle
+{
+    background: url('../Images/bgLmsLoginMiddle.png') no-repeat scroll right center transparent;
+    min-height: 250px;
+    color: #444444;
+    margin: 0;
+    vertical-align: middle;
+    width: 403px;
+}
+
+#content div.rightContent div.bottom
+{
+    background: url('../Images/bgLmsLoginBottom.png') no-repeat scroll right bottom transparent;
+    height: 41px;
+    vertical-align: bottom;
+    width: 403px;
+}
+
+
+
+#content div.rightContent div.middle input
+{
+    border: 1px solid #CCCCCC;
+    font-size: 14px;
+    padding: 5px;
+    margin:5px 0px;  
+    width: 132px;
+    height: 25px;
+}
+
+#content div.rightContent div.middle .button
+{
+    background-position: 0 0;
+	background: url('../Images/button.jpg') repeat-x 0 0;
+	color: #FFFFFF;
+	vertical-align: middle;
+	border: 1px solid gray;
+	margin:5px 0px;
+	padding:5px;
+	height: 34px;
+	font-family: "sofiapro", Arial, Sans-Serif;
+	font-size: 16px;
+}
+
+#content div.rightContent div.middle .button:hover
+{
+    box-shadow: #3a6e8f 0 1px 3px;
+}
+
+/*Textbox Watermark*/
+
+.unwatermarked {
+	height:18px;
+	width:148px;
+}
+
+.watermarked {
+	height:20px;
+	width:150px;
+	padding:2px 0 0 2px;
+	border:1px solid #BEBEBE;
+	background-color:#F0F8FF;
+	color:gray;
+}	

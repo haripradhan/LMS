@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Lms.master.cs" Inherits="LMS.Lms" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Learning Management System | </title>
+    <!--Menu CSS and JS-->
+    <link href="Styles/lmsMenuBase.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/lmsMenuSidebar.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/lmsMenuTopbar.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/LeftMenu.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/Layout.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/Manager.css" rel="stylesheet" type="text/css" />
+    <script src="Scripts/left-menu.js" type="text/javascript"></script>
+    <script src="Scripts/lmsMenu.js" type="text/javascript"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <!--Menu Div-->
+    <center>
+        <div id="topNav" style="clear: both;">
+            <div id="contentTopNav">
+                <a id="A1" href="#" class="lmsLogo" runat="server"></a>
+            </div>
+            <div id="ddtopmenubar" class="mattblackmenu" style="margin-right: 15px;">
+                <ul>
+                    <li>
+                        <asp:LinkButton ID="lbtnLogOut" runat="server" OnClick="lnkbtnLogOut_Click">Logout</asp:LinkButton>
+                    </li>
+                    <li><a href="#" rel="ddsubmenu1">
+                        <asp:Label runat="server" ID="lblUserName"></asp:Label>
+                    </a></li>
+                    <li><asp:LinkButton ID="lbtnCourses" runat="server" OnClick="lnkbtnViewCourses_Click">Courses</asp:LinkButton>
+                    </li>
+                </ul>
+            </div>
+            <script type="text/javascript">
+                ddlevelsmenu.setup("ddtopmenubar", "topbar") //ddlevelsmenu.setup("mainmenuid", "topbar|sidebar")
+            </script>
+            
+        </div>
+    </center>
+    <asp:ContentPlaceHolder ID="cphCourseContainer" runat="server">
+    </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>

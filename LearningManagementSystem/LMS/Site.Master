@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="LMS.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Learning Management System | Sign In</title>
+    <link href="Styles/StyleLmsLogin.css" rel="stylesheet" type="text/css" />
+</head>
+<body id="loginbody">
+
+< <asp:ContentPlaceHolder ID="HeadContent" runat="server">        
+        </asp:ContentPlaceHolder>
+<div id="topNav">
+   <div id="contentTopNav">        
+       <a id="A1" href="#" class="lmsLogo" runat="server"></a>
+   </div>
+</div>
+<center>
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">        
+        </asp:ContentPlaceHolder>
+</center>
+</body>
+</html>

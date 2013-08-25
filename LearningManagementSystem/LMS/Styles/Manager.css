@@ -1,0 +1,171 @@
+﻿
+#bodyContainer
+{
+    width: 100%;    
+    clear: both;
+    height: 30px;
+    background-color:#e4e4f5;
+    border: 1px solid #c9d1c8;
+    margin:0px;
+}
+
+#bodyContainer .leftC 
+{
+    width: 80%;
+    height: 29px;
+    float: left;
+    padding-left:5px;   
+    vertical-align:middle;
+}
+
+#bodyContainer .rightC 
+{
+    width: 195px;  
+    height: 29px;
+    float: left;
+    padding-left:5px;
+    vertical-align:middle;
+}
+
+.lbtnLecture
+{
+    text-decoration: none;
+    background: url('../Images/imgBulletNote.gif') no-repeat 0 0 transparent;
+    border:none;
+    padding-left: 30px;
+    width:80%;
+    font-size:18px;
+    font-family: "sofiapro", Arial, Sans-Serif;
+    color: #3766b5;
+    height:29px;
+}
+
+.btnDownload
+{
+    background: url('../Images/imgDownloadNote.png') no-repeat 0 0 transparent;
+    width:20%;
+    height:29px;
+    margin-top:2px;
+    border:none;    
+}
+
+.btnDelete
+{
+    background: url('../Images/imgDeleteNote.png') no-repeat 0 0 transparent;
+    width:20%;
+    height:29px;
+    border:none;    
+}
+
+.btnAdd
+{
+    background: url('../Images/imgAddNote.png') no-repeat 0 0 transparent;
+    width:20%;
+    height:29px;
+    border:none;    
+}
+
+.lblManageLecture
+ {
+     color: #555555;
+     font-family: "sofiapro", Arial, Sans-Serif;
+     font-size: 14px;
+     margin: 5px 20px 5px 5px;     
+ }
+ 
+ .lblManageAssignment
+ {
+     color: #555555;
+     font-family: "sofiapro", Arial, Sans-Serif;
+     font-size: 12px;
+     margin: 5px;    
+ }
+ 
+ .tbManageLecture
+ {
+     color: #555555;
+     font-family: "sofiapro", Arial, Sans-Serif;
+     font-size: 14px;
+     padding: 5px;
+     border: 1px solid #c9d1c8;
+     width:250px;
+     margin:5px;
+     height: 20px;
+ }
+
+.fuManageLecture
+ {
+     color: #555555;
+     font-family: "sofiapro", Arial, Sans-Serif;
+     font-size: 14px;
+     padding: 5px;
+     border: 1px solid #c9d1c8;
+     width:450px;
+     margin:5px;
+     background: url('../Images/topNav.jpg') repeat-x 0 0 transparent;
+     height:25px;
+     position:relative;
+     background-image:url('../Images/topNav.jpg');
+ }
+
+.ubtnManageLecture
+{
+    background: url('../Images/topNav.jpg') repeat-x 0 0 transparent;
+    padding: 5px;
+    width:100px;
+    margin:5px;
+    border:none;
+    height: 34px;
+    color: #FFFFFF;
+}
+
+.ubtnGoToAssignment
+{
+    background: url('../Images/topNav.jpg') repeat-x 0 0 transparent;
+    padding: 0px;
+    width:120px;
+    margin:0px;
+    border:none;
+    height: 29px;
+    color: #FFFFFF;
+}
+
+
+.btnDownload:hover, .btnDelete:hover, .btnAdd:hover, .ubtnManageLecture:hover
+{
+    box-shadow: #3a6e8f 0 1px 3px;
+}
+
+#uploadContainer {
+    width:100%;
+}
+
+
+#uploadContainer .leftC {
+    float: left;
+    height: 30px;
+    padding: 20px;
+    width: 50px;
+}
+
+
+#uploadContainer .rightC {
+    float: left;
+    height: 30px;
+    padding: 20px;
+    width: 100px;
+}
+
+#uploadContainer .uploadC {
+    float: left;
+    height: 30px;
+    padding: 20px;
+    width: 180px;
+}
+
+#uploadContainer .bottomC {
+    float: left;
+    height: 30px;
+    padding: 20px;
+    width: 100px;
+}

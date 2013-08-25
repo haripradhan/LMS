@@ -1,0 +1,37 @@
+﻿#banner
+{
+    clear:both;
+    margin-top: 50px;   
+    margin-bottom: 8px;
+    width: 98.5%;   
+    box-shadow: #c9d1c8 0 1px 3px;  
+    height:55px;   
+}
+
+#banner .imgCourseIcon
+{
+    width:200px;
+    float: left;
+}
+
+#banner .crsHeading
+{
+    font-family: "sofiapro-bold", Arial, Sans-Serif;
+    text-align:left;
+    text-transform: uppercase;
+    color: #095B97;
+    font-size: 21px;
+    /*border-bottom: 1px solid #c9d1c8;*/
+    padding-left:5px;
+    float: left;
+    width: 82.5%;
+    margin-top:-55px;
+    margin-left:220px;
+}
+
+.imgCourse
+{
+    width:200px;
+    height: 120px;
+    float: left;
+}
