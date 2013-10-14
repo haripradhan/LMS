@@ -49,7 +49,7 @@
             <p>
                 © Copyright 2013, Learning Management System
                 <br />
-                Designed and developed by LMS team
+               
             </p>
         </div>
     </center>
