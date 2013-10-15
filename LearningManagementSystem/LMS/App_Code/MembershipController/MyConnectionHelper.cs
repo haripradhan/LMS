@@ -1,3 +1,4 @@
+//Reference: https://bitbucket.org/oosibot1/asp.netproject-businesslogic
 using System;
 using System.Web;
 using System.Globalization;

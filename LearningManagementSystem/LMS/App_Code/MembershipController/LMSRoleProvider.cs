@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Reference: https://bitbucket.org/oosibot1/asp.netproject-businesslogic
+using System;
 using System.Web.Security;
 using System.Collections.Specialized;
 using System.Data;

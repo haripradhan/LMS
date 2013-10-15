@@ -105,3 +105,26 @@ G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_
 G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
 G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\obj\Debug\LMS.dll
 G:\Study material\Grads\Assignments\Database\Project 2\LearningManagementSystem_Final\LearningManagementSystem\LMS\obj\Debug\LMS.pdb
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\LMS.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\LMS.pdb
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\AjaxControlToolkit.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\AjaxControlToolkit.pdb
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\obj\Debug\LMS.dll
+C:\Users\hari\Documents\GitHub\LMS\LearningManagementSystem\LMS\obj\Debug\LMS.pdb

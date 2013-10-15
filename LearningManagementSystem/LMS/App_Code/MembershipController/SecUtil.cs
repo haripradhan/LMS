@@ -1,4 +1,5 @@
-﻿//------------------------------------------------------------------------------
+﻿//Reference: https://bitbucket.org/oosibot1/asp.netproject-businesslogic
+//------------------------------------------------------------------------------
 // <copyright file="SecUtility.cs" company="Microsoft">
 //     Copyright (c) Microsoft Corporation.  All rights reserved.
 // </copyright>                                                                
