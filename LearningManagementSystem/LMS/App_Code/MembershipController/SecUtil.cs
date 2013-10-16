@@ -1,4 +1,5 @@
 ﻿//Reference: https://bitbucket.org/oosibot1/asp.netproject-businesslogic
+//This is not a part of LMS. It is used for role management using WSAT.
 //------------------------------------------------------------------------------
 // <copyright file="SecUtility.cs" company="Microsoft">
 //     Copyright (c) Microsoft Corporation.  All rights reserved.

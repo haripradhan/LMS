@@ -1,4 +1,5 @@
 ﻿//Reference: https://bitbucket.org/oosibot1/asp.netproject-businesslogic
+//This is not a part of LMS.
 using System;
 using System.Web.Security;
 using System.Collections.Specialized;
